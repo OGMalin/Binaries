@@ -11,7 +11,7 @@ Usage:<br/>
   Edit this file and and put these lines in it:<br/>
     ```
     [Engine]
-    Path = *filename_of_your_engine*
+    Path = <filename_of_your_engine>
     ```
 - For some GUI:<br/>
     Add the engines filename to the end of the pathline when you install the engine. Ex. *MoveDelay.exe MyEngine.exe*
