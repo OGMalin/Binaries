@@ -21,6 +21,6 @@ In the option parameters (configuration) for your engine in the GUI you will see
   
 I have only tested it with Dragon 2.6.1 with limited strength.
  
-For some moves it will still move instantly, these moves are bookmoves and where there is only one legal move. If you try it and it don't recognize book moves for your engine, please report it as an Issue.
+For some moves it will still move instantly, these moves are bookmoves and where there is only one legal move. If you try it and it don't recognize book moves for your engine, please report it as an *Issue*. Other problem/info could be put under *Discussion*.
  
 There is a sample *MoveDelay.ini* in the .zip file that you can use as a start. If you don't need it you can delete it. The command line argument are checked first anyway.
