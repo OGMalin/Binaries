@@ -9,10 +9,10 @@ Usage:<br/>
 - For most GUI:<br/>
   Create a new file in this folder with the name *MoveDelay.ini*<br/>
   Edit this file and and put these lines in it:<br/>
-    ``
+    ```
     [Engine]
     Path = *filename_of_your_engine*
-    ``
+    ```
 - For some GUI:<br/>
     Add the engines filename to the end of the pathline when you install the engine. Ex. *MoveDelay.exe MyEngine.exe*
 - Install the MoveDelay.exe as you normaly would install the engine.
