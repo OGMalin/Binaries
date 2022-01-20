@@ -7,7 +7,7 @@ A small utility to be used for chess engines that move instantly. This will add 
 Usage:
 
 - Put this file in the same folder as the engine you want to use exist.
-- For most GUI:
+- For most GUI:<br/>
   Create a new file in this folder with the name _MoveDelay.ini_
   Edit this file and and put these lines in it:
     [Engine]
