@@ -24,3 +24,5 @@ I have only tested it with Dragon 2.6.1 with limited strength.
 For some moves it will still move instantly, these moves like bookmoves, obvious recapture etc.. If you try it and it don't recognize book moves for your engine, please report it as an *Issue*. Other problem/info could be put under *Discussion*.
  
 There is a sample *MoveDelay.ini* in the .zip file that you can use as a start. If you don't need it you can delete it. The command line argument are checked first anyway.
+
+For more details on how it works, you can take a peek into the source: https://github.com/OGMalin/Polarchess/tree/master/MoveDelay
