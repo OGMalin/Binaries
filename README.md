@@ -26,3 +26,7 @@ For some moves it will still move instantly, these moves like bookmoves, obvious
 There is a sample *MoveDelay.ini* in the .zip file that you can use as a start. If you don't need it you can delete it. The command line argument are checked first anyway.
 
 For more details on how it works, you can take a peek into the source: https://github.com/OGMalin/Polarchess/tree/master/MoveDelay
+
+History:
+24. jan. 2022 - First release
+25. jan. Fixed some time management
