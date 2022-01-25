@@ -28,5 +28,5 @@ There is a sample *MoveDelay.ini* in the .zip file that you can use as a start. 
 For more details on how it works, you can take a peek into the source: https://github.com/OGMalin/Polarchess/tree/master/MoveDelay
 
 History:
-24. jan. 2022 - First release
+24. jan. 2022 - First release<br/>
 25. jan. Fixed some time management
