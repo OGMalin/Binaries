@@ -29,4 +29,4 @@ For more details on how it works, you can take a peek into the source: https://g
 
 History:<br/>
 24. jan. 2022 - First release<br/>
-25. jan. Fixed some time management
+25. jan. 2022 - Fixed some time management
