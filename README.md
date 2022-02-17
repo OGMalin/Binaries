@@ -29,5 +29,5 @@ For more details on how it works, you can take a peek into the source: https://g
 
 History:<br/>
 24. jan. 2022 - First release<br/>
-25. jan. 2022 - Fixed some time management
+25. jan. 2022 - Fixed some time management<br/>
 17. feb. 2022 - Set the current directory to MoveDelay directory. This help in some cases where the GUI don't do this automatic.
