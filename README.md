@@ -32,3 +32,15 @@ History:<br/>
 25. jan. 2022 - Fixed some time management<br/>
 17. feb. 2022 - Set the current directory to MoveDelay directory. This help in some cases where the GUI don't do this automatic.<br/>
 04. may. 2022 - Added translation of the command flow, see MoveDelay.ini for sample.
+
+## HumanBooks.zip
+
+Div books in polyglot format for use when playing against engines.
+
+pc1600.bin - From games with players around 1600<br/>
+pc1800.bin - From games with players around 1800<br/>
+pc2000.bin - From games with players around 2000<br/>
+pc2200.bin - From games with players around 2200<br/>
+pc2500.bin - From games with players around 2500<br/>
+
+Some engines restrict number of moves used when playing at limited strength, so you can use these books for all levels for these engines.
