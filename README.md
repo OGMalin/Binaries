@@ -32,6 +32,7 @@ History:<br/>
 25. jan. 2022 - Fixed some time management<br/>
 17. feb. 2022 - Set the current directory to MoveDelay directory. This help in some cases where the GUI don't do this automatic.<br/>
 04. may. 2022 - Added translation of the command flow, see MoveDelay.ini for sample.
+12. may. 2022 - Added possibility to use newline (\n) in the translation.
 
 ## HumanBooks.zip
 
