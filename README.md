@@ -31,11 +31,12 @@ History:<br/>
 ```
 24. jan. 2022 - First release.
 25. jan. 2022 - Fixed some time management.
-17. feb. 2022 - Set the current directory to MoveDelay directory. This help in some cases where the GUI don't do this automatic.
+17. feb. 2022 - Set the current directory to MoveDelay directory.
+                This help in some cases where the GUI don't do this automatic.
 04. may. 2022 - Added translation of the command flow, see MoveDelay.ini for sample.
 12. may. 2022 - Added possibility to use newline (\n) in the translation.
 16. aug. 2024 - Added Polyglot book support.
-                Made a change for reading ini files. Now it use the same name for ini files as the exe file.
+                Made a changes for reading ini files. Now it use the same name for ini files as the exe file.
                 Fixed a bug when translating a uci/engine command.
 ```
 ## HumanBooks.zip
