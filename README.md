@@ -50,3 +50,8 @@ pc2200.bin - From games with players around 2200<br/>
 pc2500.bin - From games with players around 2500<br/>
 
 Some engines restrict number of moves used when playing at limited strength, so you can use these books for all levels for these engines.
+
+## MaiaPersonality
+A try to create Maia personalities ranging from 925 to 2250 Elo.
+
+Download the file and exstract it to its own folder. Then install the engines as you usually do in your chess program. There should be 54 personalities in total. Take a look at Rating.txt inside the zip file to check out the rating.
