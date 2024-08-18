@@ -54,4 +54,7 @@ Some engines restrict number of moves used when playing at limited strength, so 
 ## MaiaPersonality
 A try to create Maia personalities ranging from 925 to 2250 Elo.
 
-Download the file and exstract it to its own folder. Then install the engines as you usually do in your chess program. There should be 54 personalities in total. Take a look at Rating.txt inside the zip file to check out the rating.
+It uses weight files from: https://maiachess.com/ and the engine from https://lczero.org/. All put together by MoveDelay.
+
+Download the file and exstract it to its own folder. Then install the engines as you usually do in your chess program. There should be 54 personalities in total. Take a look at Rating.txt inside the zip file to check out the rating. I have tested it on Hiarcs and Fritz.
+In Hiarcs, you can play rated games and Hiarcs will show your rating. In Fritz, you have to install it as a normal engine and play at full strength. Fritz's ratingsystem will not use the engine while playing rated games.
